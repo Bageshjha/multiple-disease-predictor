@@ -1,6 +1,0 @@
-numpy
-pickle-mixin
-streamlit_option_menu
-streamlit
-scikit-learn
-pandas
